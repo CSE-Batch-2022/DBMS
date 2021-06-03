@@ -1,4 +1,4 @@
-# DBMS
+# SQL Queries
 
 ##### 1. Write an SQL query to fetch "NAME" from Student table in upper case
 ```
